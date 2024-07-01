@@ -24,14 +24,14 @@
 | Storage	| 400 GB SSD |
 | System	| Ubuntu 22.04 OR 20.04 |
 
-### 🚧Gerekli kurulumlar
-```
+### 🐅 Sunucumuzu güncelleyelim
+```console
 sudo apt update && sudo apt upgrade -y
 sudo apt install curl git wget htop tmux build-essential jq make lz4 gcc unzip -y
 ```
 
-### 🚧 Go kurulumu
-```
+### 🐅 Go kurulumu
+```console
 cd $HOME
 VER="1.21.3"
 wget "https://golang.org/dl/go$VER.linux-amd64.tar.gz"
