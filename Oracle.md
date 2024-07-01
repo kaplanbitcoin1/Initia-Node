@@ -59,9 +59,9 @@ oracle_address = "127.0.0.1:8080"
 client_timeout = "500ms"
 ```
 
-![image](https://github.com/Core-Node-Team/Testnet-TR/assets/91562185/7c3c9f54-dcb3-42c7-bd5a-0c5b81fb85b4)
+![image](https://github.com/kaplanbitcoin1/Initia-NODE/assets/98455323/6562a9e1-2da8-436a-848c-f2eb644ab2df)
 
-![image](https://github.com/Core-Node-Team/Testnet-TR/assets/91562185/e767f310-efde-4c19-955f-8d2120a918a7)
+![image](https://github.com/kaplanbitcoin1/Initia-NODE/assets/98455323/b23eec78-6257-4a49-8c88-9e44f1db41da)
 
 * 🐅 Not: İşlemleri tamamlayınca Initia'ya restart atmamız gerek
 ```console
