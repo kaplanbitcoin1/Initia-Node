@@ -12,11 +12,11 @@
  * [Discord](https://discord.gg/initia)<br>
  * [Docs](https://docs.initia.xyz/)<br>
  
-## FAUCET 
+# FAUCET 
 
 https://faucet.testnet.initia.xyz/
 
-## Explorer
+# Explorer
 
 https://scan.testnet.initia.xyz/initiation-1
 
