@@ -11,15 +11,10 @@
  * [Twitter](https://x.com/initiaFDN)<br>
  * [Discord](https://discord.gg/initia)<br>
  * [Docs](https://docs.initia.xyz/)<br>
+ * [Faucet](https://faucet.testnet.initia.xyz/)<br>
+ * [Explorer](https://scan.testnet.initia.xyz/initiation-1)<br>
  
  
- FAUCET 
-
-https://faucet.testnet.initia.xyz/
-
-> Explorer
-
-https://scan.testnet.initia.xyz/initiation-1
 
 ## 💻 Sistem Gereksinimleri
 | Bileşenler | Minimum Gereksinimler | 
