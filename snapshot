@@ -1,6 +1,6 @@
 
 
-```console
+```shell
 sudo apt update
 sudo apt install lz4 -y
 ```
@@ -28,3 +28,4 @@ sudo systemctl restart initiad
 
 ```console
 sudo journalctl -u initiad -f --no-hostname -o cat
+```
