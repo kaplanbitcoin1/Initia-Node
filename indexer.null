@@ -1,1 +1,8 @@
+```console
+sed -i "s/^indexer *=.*/indexer = \"null\"/" $HOME/.initia/config/config.toml
+```
 
+
+```console
+sudo systemctl restart initiad
+```
