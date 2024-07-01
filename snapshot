@@ -1,6 +1,6 @@
 
 
-```shell
+```console
 sudo apt update
 sudo apt install lz4 -y
 ```
