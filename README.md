@@ -112,7 +112,7 @@ curl -Ls https://raw.githubusercontent.com/Core-Node-Team/Testnet-TR/main/Initia
 echo "export N_PORT="15"" >> $HOME/.bash_profile
 source $HOME/.bash_profile
 ```
-```
+```console
 sed -i.bak -e "s%:1317%:${N_PORT}317%g;
 s%:8080%:${N_PORT}080%g;
 s%:9090%:${N_PORT}090%g;
@@ -121,7 +121,7 @@ s%:8545%:${N_PORT}545%g;
 s%:8546%:${N_PORT}546%g;
 s%:6065%:${N_PORT}065%g" $HOME/.initia/config/app.toml
 ```
-```
+```console
 sed -i.bak -e "s%:26658%:${N_PORT}658%g;
 s%:26657%:${N_PORT}657%g;
 s%:6060%:${N_PORT}060%g;
