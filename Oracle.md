@@ -1,4 +1,4 @@
-### Dosyaları çekelim
+### 🐅 Dosyaları çekelim
 ```console
 cd $HOME
 rm -rf slinky
@@ -12,7 +12,7 @@ make build
 ```console
 mv build/slinky /usr/local/bin/
 ```
-### Servis olusturalım
+### 🐅 Servis olusturalım
 ```console
 sudo tee /etc/systemd/system/slinkyd.service > /dev/null <<EOF
 [Unit]
@@ -30,7 +30,7 @@ LimitNOFILE=65535
 WantedBy=multi-user.target
 EOF
 ```
-### Başlatalım
+### 🐅vBaşlatalım
 ```console
 sudo systemctl daemon-reload
 ```
@@ -40,15 +40,15 @@ sudo systemctl enable slinkyd.service
 ```console
 sudo systemctl restart slinkyd.service
 ```
-### Loglara bakmak isterseniz
+### 🐅vLoglara bakmak isterseniz
 ```console
 journalctl -fu slinkyd --no-hostname
 ```
-### Yapılandıralım
+### 🐅 Yapılandıralım
 ```console
 nano /root/.initia/config/app.toml
 ```
-* Not: sayfanın sonuna ok tuşları ile gidin. yada ctrl w basarak arama yerine oracle yazın. enterlayın gider. 1ci resimdeki gibi olanı 2 ci resimdeki gibi düzenleyin.
+* 🐅vNot: sayfanın sonuna ok tuşları ile gidin. yada ctrl w basarak arama yerine oracle yazın. enterlayın gider. 1ci resimdeki gibi olanı 2 ci resimdeki gibi düzenleyin.
 ```console
 enabled = "true"
 ```
@@ -63,7 +63,7 @@ client_timeout = "500ms"
 
 ![image](https://github.com/Core-Node-Team/Testnet-TR/assets/91562185/e767f310-efde-4c19-955f-8d2120a918a7)
 
-* Not: işlemleri tamamlayınca initiaya restart atmamız gerek
+* 🐅 Not: işlemleri tamamlayınca initiaya restart atmamız gerek
 ```console
 sudo systemctl daemon-reload
 sudo systemctl restart initiad
