@@ -161,7 +161,7 @@ sudo systemctl restart initiad
 sudo journalctl -u initiad.service -f --no-hostname -o cat
 ```
 ### 🐅 Cüzdan oluşturma
-* NOT: Cüzdan adınızı yazınız
+* Cüzdan adınızı yazınız
 ```console
 initiad keys add cüzdan-adini-yaz
 ```
