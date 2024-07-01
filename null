@@ -1,3 +1,5 @@
+
+
 ```console
 sed -i "s/^indexer *=.*/indexer = \"null\"/" $HOME/.initia/config/config.toml
 ```
