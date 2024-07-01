@@ -16,7 +16,7 @@
  
  
 
-## 💻 Sistem Gereksinimleri
+## 💻 
 | Bileşenler | Minimum Gereksinimler | 
 | ------------ | ------------ |
 | CPU |	6|
