@@ -92,7 +92,7 @@ sudo systemctl daemon-reload
 sudo systemctl enable initiad.service
 ```
 ### 🐅 Init
-NOT: node adınızı yazınız.
+* NOT: node adınızı yazınız.
 ```console
 initiad config set client chain-id initiation-1
 initiad config set client node tcp://localhost:15657
@@ -203,7 +203,7 @@ initiad tx mstaking edit-validator \
 -y
 ```
 ### 🐅 Kendine delege
-NOT: 
+* NOT: 
 ```bash
 initiad tx mstaking delegate $(initiad keys show wallet --bech val -a)  miktar000000uinit --from wallet --gas-adjustment 1.4 --gas auto --gas-prices 0.15uinit --node=http://localhost:15657 -y
 ```
