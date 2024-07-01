@@ -91,7 +91,7 @@ EOF
 sudo systemctl daemon-reload
 sudo systemctl enable initiad.service
 ```
-### 🐅 İnit
+### 🐅 Init
 NOT: node adınızı yazınız.
 ```console
 initiad config set client chain-id initiation-1
