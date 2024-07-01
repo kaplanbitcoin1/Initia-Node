@@ -146,7 +146,7 @@ sed -i -e "s/^pruning-keep-recent *=.*/pruning-keep-recent = \"100\"/" $HOME/.in
 sed -i -e "s/^pruning-interval *=.*/pruning-interval = \"10\"/" $HOME/.initia/config/app.toml
 sed -i "s/^indexer *=.*/indexer = \"null\"/" $HOME/.initia/config/config.toml
 ```
-### 🐅 Snap (opsiyonel)
+### 🐅 Snap (Opsiyonel)
 ```console
 initiad tendermint unsafe-reset-all --home $HOME/.initia
 curl -o - -L http://37.120.189.81/initia_testnet/initia_snap.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.initia
