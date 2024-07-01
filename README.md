@@ -1,7 +1,7 @@
 <h1 align="center"> INITIA NODE
 
 
-![image](![1](https://github.com/kaplanbitcoin1/EthStorage-dApp-Tasks/assets/98455323/82a9ef69-f71e-4b0c-a38a-98aa35acc595))
+![image](https://github.com/kaplanbitcoin1/EthStorage-dApp-Tasks/assets/98455323/82a9ef69-f71e-4b0c-a38a-98aa35acc595)
 
 
 </h1>
