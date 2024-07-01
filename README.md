@@ -1,7 +1,7 @@
 <h1 align="center"> INITIA NODE
 
 
-![image](https://github.com/molla202/pokemon/assets/91562185/c0d15ba5-72dd-4dcf-9766-3a4e72e42627)
+![image](![1](https://github.com/kaplanbitcoin1/EthStorage-dApp-Tasks/assets/98455323/82a9ef69-f71e-4b0c-a38a-98aa35acc595))
 
 
 </h1>
@@ -13,7 +13,7 @@
  * [Docs](https://docs.initia.xyz/)<br>
  
  
- > FAUCET 
+ FAUCET 
 
 https://faucet.testnet.initia.xyz/
 
