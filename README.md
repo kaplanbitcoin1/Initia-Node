@@ -1,5 +1,5 @@
 
-![image](https://github.com/kaplanbitcoin1/EthStorage-dApp-Tasks/assets/98455323/82a9ef69-f71e-4b0c-a38a-98aa35acc595)
+![image](https://github.com/kaplanbitcoin1/EthStorage-dApp-Tasks/assets/98455323/1f5591a0-5c21-4c3a-b82d-b59e3323e4a9)
 
 
 </h1>
