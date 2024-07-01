@@ -92,7 +92,7 @@ sudo systemctl daemon-reload
 sudo systemctl enable initiad.service
 ```
 ### 🐅 Init
-* NOT: Node adınızı yazınız.
+* Node adınızı yazınız
 ```console
 initiad config set client chain-id initiation-1
 initiad config set client node tcp://localhost:15657
@@ -172,7 +172,7 @@ initiad keys add wallet --recover
 
 ### 🐅 Validator oluşturma
 
-* NOT: Cüzdan adınızı ve moniker adınızı yazınız
+* Cüzdan adınızı ve moniker adınızı yazınız
 ```console
 initiad tx mstaking create-validator \
   --amount=5000000uinit \
