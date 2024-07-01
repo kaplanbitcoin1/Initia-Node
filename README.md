@@ -219,4 +219,4 @@ initiad tx distribution withdraw-rewards $(initiad keys show wallet --bech val -
 initiad tx gov vote 75 yes --from wallet --chain-id initiation-1 --gas-adjustment 1.4 --gas auto --gas-prices 0.15uinit --node=http://localhost:15657 -y
 ```
 
-> [Corenode](https://github.com/Core-Node-Team/) ve [Kokoreççi'ye](https://github.com/molla202/) katkılarından dolayı teşekkürler.
+### [Corenode](https://github.com/Core-Node-Team/) ve [Kokoreççi'ye](https://github.com/molla202/) katkılarından dolayı teşekkürler.
