@@ -70,3 +70,10 @@ sudo systemctl restart initiad
 sudo systemctl restart slinkyd.service
 sudo journalctl -u initiad.service -f --no-hostname -o cat
 ```
+
+
+
+```
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+```
