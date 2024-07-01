@@ -48,7 +48,7 @@ journalctl -fu slinkyd --no-hostname
 ```console
 nano /root/.initia/config/app.toml
 ```
-* Sayfanın sonuna ok tuşları ile gidin ya da ctrl+w'ye basarak arama yerine oracle yazın, enterlayın. 1.ci fotoğraftaki bilgileri 2.ci fotoğraftakiler ile değiştirelim
+* Sayfanın sonuna ok tuşları ile gidin ya da ctrl+w yapıp arama yerine oracle yazın, enterlayın. 1.ci fotoğraftaki bilgileri 2.ci fotoğraftakiler ile değiştirelim
 ```console
 enabled = "true"
 ```
