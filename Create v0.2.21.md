@@ -1,0 +1,18 @@
+```console
+systemctl stop initiad
+cd $HOME
+rm -rf initia
+git clone https://github.com/initia-labs/initia.git
+cd initia
+git checkout v0.2.21
+make build
+./build/initiad version
+```
+```console
+mv /root/initia/build/initiad $HOME/.initia/cosmovisor/genesis/bin/
+```
+```console
+sudo systemctl daemon-reload
+sudo systemctl restart initiad
+sudo journalctl -u initiad.service -f --no-hostname -o cat
+```
