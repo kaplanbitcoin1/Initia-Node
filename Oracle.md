@@ -48,7 +48,7 @@ journalctl -fu slinkyd --no-hostname
 ```console
 nano /root/.initia/config/app.toml
 ```
-* 🐅 Sayfanın sonuna ok tuşları ile gidin ya da ctrl+w'ye basarak arama yerine oracle yazın, enterlayın. 1.ci fotoğraftaki bilgileri 2.ci fotoğraftakiler ile değiştirelim
+* Sayfanın sonuna ok tuşları ile gidin ya da ctrl+w'ye basarak arama yerine oracle yazın, enterlayın. 1.ci fotoğraftaki bilgileri 2.ci fotoğraftakiler ile değiştirelim
 ```console
 enabled = "true"
 ```
@@ -63,7 +63,7 @@ client_timeout = "500ms"
 
 ![image](https://github.com/kaplanbitcoin1/Initia-NODE/assets/98455323/b23eec78-6257-4a49-8c88-9e44f1db41da)
 
-* 🐅 İşlemleri tamamlayınca Initia'ya restart atmamız gerekiyor
+* İşlemleri tamamlayınca Initia'ya restart atmamız gerekiyor
 ```console
 sudo systemctl daemon-reload
 sudo systemctl restart initiad
