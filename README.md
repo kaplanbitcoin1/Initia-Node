@@ -161,18 +161,18 @@ sudo systemctl restart initiad
 sudo journalctl -u initiad.service -f --no-hostname -o cat
 ```
 ### 🐅 Cüzdan oluşturma
-NOT: cüzdan adınızı yazınız
+* NOT: cüzdan adınızı yazınız
 ```console
 initiad keys add cüzdan-adini-yaz
 ```
-- Eski cüzdanınızı import etmek isterseniz
+* Eski cüzdanınızı import etmek isterseniz
 ```console
 initiad keys add wallet --recover
 ```
 
 ### 🐅 Validator oluşturma
 
-NOT: Cüzdan adınızı ve moniker adınızı yazınız
+* NOT: Cüzdan adınızı ve moniker adınızı yazınız
 ```console
 initiad tx mstaking create-validator \
   --amount=5000000uinit \
