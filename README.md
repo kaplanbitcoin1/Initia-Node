@@ -19,9 +19,9 @@
 ## 💻 
 | Bileşenler | Minimum Gereksinimler | 
 | ------------ | ------------ |
-| CPU |	6|
+| CPU |	8|
 | RAM	| 16+ GB |
-| Storage	| 400 GB SSD |
+| Storage	| 1 TB SSD |
 | System	| Ubuntu 22.04 OR 20.04 |
 
 ### 🐅 Sunucumuzu güncelleyelim
